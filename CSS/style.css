@@ -7,6 +7,14 @@ h1 {
     margin-bottom: 1.5rem;
  }
 
+#heading {
+    color: black;
+}
+
+#heading {
+    color: yellow;
+}
+
 p {
     color: olive;
     font-size: 26px;
