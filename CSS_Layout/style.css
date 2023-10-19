@@ -108,3 +108,16 @@ ul li {
     background-color: yellow;
     text-align: center;
 }
+
+
+@media print {
+    #interesting-banner {
+        display: none;
+    }
+    section {
+        height: auto;
+    }
+    #padding-article-print {
+        margin-top: 70px;
+    }
+}
